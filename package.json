@@ -1,6 +1,6 @@
 {
   "name": "formal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "start": "node ./bin/www"
@@ -15,5 +15,8 @@
     "morgan": "~1.5.3",
     "serve-favicon": "~2.2.1",
     "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": "4.3.0"
   }
 }
